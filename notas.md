@@ -27,5 +27,17 @@ phising
 	se utiliza para robar passord
 verified by visa
 mastercard SecureCode
- 
+
+No creas todo lo que lees en internet
+scammers ver que es?
+
+scam hoax
+fuentes de confianza
+
+fuentes para compartir
+hoaxes.org
+snopes.com
+
+
+
 
