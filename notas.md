@@ -85,5 +85,36 @@ TEST A/B
 	dos versiones
 		cambiar un solo elemento
 		totalmente diferentes
-	 
+
+como cobrar por mi trabajo 
+	freelance cobra por trabajo
+	preguntar presupuesto 
+	no tienen algunas otras empresas
+
+cuanta cuesta la hora de tu trabajo
+	internet 
+	comida
+	mis capacitaciones
+
+el dia de hanmioton cuestan tanto para estar operativo 
+	
+BENCHMARKING 
+	cuanto cobran las persoans que han 
+
+paginas web para calcular el precio de tu trabajo
+	BEEWITS
+	etsy
+
+mayoria de empresas 
+	claro mis costos
+
+COMO COBRAR?
+	necesito una empresa?
+	pequeños contribuyente?
+
+IMPUESTOS 
+	al realizar transferencias bancarias 
+	optimizacion de impuestos 
+PORTAFOLIO
+	tu marca personal
 
