@@ -118,3 +118,28 @@ IMPUESTOS
 PORTAFOLIO
 	tu marca personal
 
+-----------------
+
+DEPLOY
+	llevar tu proyecto a un servidor en linea
+
+	pruebas 
+		o tengan ningun problema cuando se suba para el consumidor
+
+Buenas practicas
+	Consensus.- que todos sepan que hay un deploymente corirendo 
+		nuevo feature
+		solucionanado bug
+	Fast rollback 
+		poder volver al codigo anterior si se rompe algo 
+	Correctness.- 
+		todos los nodos tengan la version correcta del nodo
+	homogeneizar 
+		ambientes de desarrollo
+		testing y produccion lo mas identicos posibles
+
+Testing
+	testing automatizados
+
+
+
