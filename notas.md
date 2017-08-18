@@ -141,5 +141,55 @@ Buenas practicas
 Testing
 	testing automatizados
 
+-----------------------------
+QUE ESTA PASANDO EN VENEZUELA
 
+falsa dicotomìa
+	comparar dos cosas para cerrar la conversacion inteligente 
 
+dolares 
+	estan restringidos
+2007
+	bolivares 1000
+	bolivares fuertes 1
+	esto hace que la inflacion se dispare debido a que la gente sube los productos al inmediato superior
+	gobierno empieza a imprimir dinero por tanto puedo cobrar mas
+	todo es mas caro
+	por ley el dolar vale 10 bolivares fuertes
+	300$ electronicos
+	700$-1000$ para viajar
+restriccion del dolar
+	las remesas extranjeras
+		limitadas al cambio oficial
+sueldo minimo
+	60000$ en cash
+	125000$ en comida
+el carnet de la patria
+leyes hacer filas por las noches
+no hay medicinas porq no se pueden importar insumos
+carne basica
+	casi 12 horas
+
+Dolar negro 
+	sueldo minimos
+		200,000
+	40.7 dolar real 
+Inflacion del 2017
+	1600%
+	argentina
+		21.5%
+es mas caro comprar agua que gasolina
+	se esta migrando a energia solar 
+
+DUBAI
+	genera mas dinero por turismo que por el petroleo
+
+VENEZUELA
+	mineria de bitcoin
+	los arrestan como si estuvieran haciendno crimen
+	mas personas mueren en venezuela que en irak
+Circunscripciones Electorales
+	zonas chavistas mas prioridad
+	zonas anti menos prioridad
+TRIBUNAL SUPREMO
+	milicias bolivarianas darles armas		
